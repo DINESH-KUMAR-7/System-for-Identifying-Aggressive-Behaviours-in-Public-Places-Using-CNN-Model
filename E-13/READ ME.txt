@@ -1,0 +1,25 @@
+E13 - System for Identifying Aggressive behaviour in public places using CNN model
+----------------------------------------------------------------------------------
+
+PRE-REQUIRESTICS:
+----------------
+
+The Following packages are needed to installed before run the source code:
+ - Python 
+ - jupyter notebook
+ - Tensorflow and Keras (packge)
+ - pyttsx3 (package for voice generation)
+ - OpenCv (package)
+
+Process:-
+=========
+
+Step 1 :-> Open the jupyter source file (E13-Source code.ipynb) in jupyter notebook or in google colab.
+
+Step 2 :-> place the saved model in same folder of the source code.
+
+Step 4 :-> Run the code and give real time video or any recorded video in the source code.
+
+Step 5 :-> The system will give alert if it finds any fighting scence in it.
+
+Step 5 :-> To terminate the execution of the program press 'esc' key.
