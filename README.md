@@ -1,4 +1,4 @@
-# System-for-Identifying-Aggressive-Behaviours-in-Public-Places-Using-CNN-Model
+# System for Identifying Aggressive Behaviours in Public Places Using CNN Model
 > system to predict the fighting on public places
 
 ```
